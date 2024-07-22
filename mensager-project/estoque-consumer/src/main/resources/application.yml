@@ -1,0 +1,5 @@
+spring:
+  amqp:
+    deserialization:
+      trust:
+        all: true
